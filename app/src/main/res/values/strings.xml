@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Resume Project</string>
+    <string name="title_activity_comments">Comments</string>
+    <string name="class1Name">PHP</string>
+    <string name="class1Descr">In php we learned how to use PHP code to manipulate websites with data.
+        This included: Manipulating variables, creating arrays, taking data from SQL databases, etc.
+        Some projects included displaying and modifying data on websites.\n</string>
+    <string name="class2Name">Website Design</string>
+    <string name="class2Descr">In this class we learned how to create good navigation and page layout for websites.
+        This knowledge can be used in other UI designs such as android apps as well. Many projects included creating websites from scratch.
+        It also taught us to think and make the project reflect the theme and needs of the purchaser.\n</string>
+    <string name="class3Name">SQL</string>
+    <string name="class3Descr">We learned to manipulate, insert, and delete data and tables in SQL based databases.
+    We worked with both SQL and MySQL databases. Projects included creating and editing existing databases and tables.
+    We also learned how to use joins and other methods of data combination.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_view_comments">ViewComments</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_intent_examples">IntentExamples</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
